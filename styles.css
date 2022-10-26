@@ -13,6 +13,7 @@
     text-align: center;
   }
 
+  
   p {
     display: block;
     width: 850px;
@@ -49,6 +50,7 @@
     text-decoration: none;
   }
 
+  
   .ul-nav {
     list-style: none;
     margin-left: 90px;
@@ -64,3 +66,10 @@
   .li-list {
     margin-left: 100px;
   }
+  iframe {
+    display: block;
+    margin-left: 50px;
+    align-self: center;
+    border: 1px solid black;
+    width: 100%;
+}
